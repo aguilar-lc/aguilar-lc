@@ -1,18 +1,11 @@
 ## Olá, eu sou a Lílian 👋
 [![Linkedin_Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/liliancandido/)](http://www.linkedin.com/in/liliancandido/)
-
-
-Meu nome é Lílian Cândido, sou uma cientista brasileira de dados apaixonada por Machine Learning e todos os tipos de aplicações de IA.
-
-Originalmente formado como jornalista, acredito no poder da comunicação para a resolução de problemas e conquista de mundo!
-
-👯 Técnicnologias e Ferramentas: Python, SQL, Docker, Cloud, GCP, Databricks.
-
-📫 Como chegar até mim: leticia.gerola@outlook.com | LinkedIn
-
-🌐 Confira meu site pessoal com artigos e projetos que desenvolvi :) 
 [![Medium_badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@liliancandido)](https://medium.com/@liliancandido/)
+[![Gmail_badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:liliancandidoaguilar@gmail.com)](mailto:liliancandidoaguilar@gmail.com)
 
+👀 Sou interessada por estatísticas, machine learning, dados em geral.
+
+🌱 Atualmente estou desenvolvendo skills de programação.
 
 
 ## Linguagens e Ferramentas:
