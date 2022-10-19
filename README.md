@@ -1,12 +1,14 @@
 <h1 >Olá, eu sou a Lilian <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"></h1>
 
-❤️ Sou apaixonada por tecnologia e códigos
+❤️ Sou apaixonada por tecnologia.
 
-📚 Tenho interesse em Ciencia de Dados, Estatística, Machine Learning e IA
+📚 Tenho interesse em Ciencia de Dados, Estatística, Machine Learning e IA.
 
-👩‍🎓 Atualmente estou aprendendo sobre Python e desenvolvendo skills de programação
+👩‍🎓 Atualmente estou aprendendo sobre Python e desenvolvendo skills de programação.
 
-💻 Linguagens e Ferramentas: Python, mongoDB, Jupyter Notebook, VScode, Pycharm, Git, Powerbi
+💻 Linguagens e Ferramentas: Python, mongoDB, Jupyter Notebook, VScode, Pycharm, Git e Powerbi.
+
+#### Você pode me encontrar aqui:
 
 [![Linkedin_Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/liliancandido/)](http://www.linkedin.com/in/liliancandido/)
 [![Medium_badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@liliancandido)](https://medium.com/@liliancandido/)
