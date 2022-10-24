@@ -4,7 +4,7 @@
 
 📚 Tenho interesse em Ciencia de Dados, Estatística, Machine Learning e IA.
 
-👩‍🎓 Atualmente estou aprendendo sobre Python, Análide de Dados e desenvolvendo skills de programação.
+👩‍🎓 Atualmente estou aprendendo sobre Python, Análise de Dados e desenvolvendo skills de programação.
 
 💻 Linguagens e Ferramentas: Python, mongoDB, Jupyter Notebook, VScode, Pycharm, Git e Powerbi.
 
