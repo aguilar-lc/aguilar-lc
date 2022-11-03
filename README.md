@@ -6,7 +6,7 @@
 
 👩‍🎓 Atualmente estou aprendendo sobre Python, Análise de Dados, SQL e desenvolvendo skills de programação.
 
-💻 Linguagens e Ferramentas: Python, mongoDB, Jupyter Notebook, VScode, Pycharm, Git e Powerbi.
+💻 Linguagens e Ferramentas: Python, Powerbi, MySQL, mongoDB, Git, Jupyter Notebook, VScode, Pycharm.
 
 #### Você pode me encontrar aqui:
 
