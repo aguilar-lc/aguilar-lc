@@ -1,7 +1,5 @@
 <h1 >Olá, eu sou a Lilian <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"></h1>
 
-❤️ Sou apaixonada por tecnologia.
-
 📚 Tenho interesse em Ciencia de Dados, Estatística, Machine Learning e IA.
 
 👩‍🎓 Atualmente estou aprendendo sobre Python e Estatística para Análise de Dados.
