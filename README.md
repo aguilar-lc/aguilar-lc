@@ -8,7 +8,7 @@
 
 💻 Linguagens e Ferramentas: Python, Powerbi, MySQL, mongoDB, Git, Jupyter Notebook, VScode, Pycharm.
 
-#### Você pode me encontrar aqui:
+#### Você pode me encontrar aqui também:
 
 [![Linkedin_Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=http://www.linkedin.com/in/liliancandido/)](http://www.linkedin.com/in/liliancandido/)
 [![Medium_badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@liliancandido)](https://medium.com/@liliancandido/)
