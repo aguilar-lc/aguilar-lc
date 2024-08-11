@@ -2,7 +2,7 @@
 
 📚 Tenho interesse em Ciencia de Dados, Estatística, Machine Learning e IA.
 
-💻 Sou Cientista de Dados na Wellbe.
+💻 Sou Engenheira de Dados na Wellbe.
 
 👩‍🎓 Atualmente estou aprendendo sobre Python e Estatística para Análise de Dados.
 
